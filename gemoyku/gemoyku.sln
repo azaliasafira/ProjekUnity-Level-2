@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DF4E7B19-A46F-EB28-2A39-48A6E5848C4B}") = "gemoyku", "Assembly-CSharp.csproj", "{18A25737-0015-CDCB-1F3E-9FCFC9040477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A25737-0015-CDCB-1F3E-9FCFC9040477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A25737-0015-CDCB-1F3E-9FCFC9040477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A25737-0015-CDCB-1F3E-9FCFC9040477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A25737-0015-CDCB-1F3E-9FCFC9040477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
